@@ -61,3 +61,5 @@ The project demonstrates the potential of web scraping and AI-driven analytics t
 
 ## Author & Portfolio
 As a Data & Automation Engineer, I specialize in developing data-driven solutions that inform business decisions and drive growth. With a strong background in data science and automation, I have a proven track record of delivering high-quality projects that meet and exceed client expectations. My portfolio includes a range of projects that demonstrate my expertise in web scraping, data analysis, and AI-driven analytics. I am committed to delivering exceptional results and providing 100% written communication to ensure seamless collaboration and project success.
+
+[![View Dashboard](https://img.shields.io/badge/🌐-View_Dashboard-2c7da0?style=for-the-badge)](https://ranjaniainatahiry-dotcom.github.io/rust-python-data-pipeline/dashboard_pro.html)
